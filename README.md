@@ -45,6 +45,6 @@ Submit pull-requests for Vesper pool operations.
 - [vWBTC](./polygon/vWBTC.md)
 - [vWETH](./polygon/vWETH.md)
 
-## Earn Pool
+### Earn Pool
 - [veDAI-WETH](./polygon/veDAI-WETH.md)
 - [veDAI-WBTC](./polygon/veDAI-WBTC.md)
