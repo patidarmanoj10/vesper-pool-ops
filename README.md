@@ -4,31 +4,47 @@ Submit pull-requests for Vesper pool operations.
 - Integrate new strategy
 - Propose new strategy development
 
-## Conservative Pools
-- [vUNI](./vUNI.md)
-- [vUSDT](./vUSDT.md)
-- [vDAI](./vDAI.md)
-- [vETH](./vETH.md)
-- [vLINK](./vLINK.md)
-- [vUSDC](./vUSDC.md)
-- [vWBTC](./vWBTC.md)
+## Ethereum (mainnet)
 
-## Aggressive Pools
-- [vaDAI](./vaDAI.md)
-- [vaETH](./vaETH.md)
-- [vaWBTC](./vaWBTC.md)
-- [vaUSDC](./vaUSDC.md)
+### Conservative Pools
+- [vUNI](./mainnet/vUNI.md)
+- [vUSDT](./mainnet/vUSDT.md)
+- [vDAI](./mainnet/vDAI.md)
+- [vETH](./mainnet/vETH.md)
+- [vLINK](./mainnet/vLINK.md)
+- [vUSDC](./mainnet/vUSDC.md)
+- [vWBTC](./mainnet/vWBTC.md)
 
-## Earn Pools
-- [veETH-DAI](./veETH-DAI.md)
-- [veDAI-ETH](./veDAI-ETH.md)
-- [veWBTC-DAI](./veWBTC-DAI.md)
-- [veDAI-WBTC](./veDAI-WBTC.md)
-- [veDAI-DPI](./veDAI-DPI.md)
-- [veDAI-VSP](./veDAI-VSP.md)
+### Aggressive Pools
+- [vaDAI](./mainnet/vaDAI.md)
+- [vaETH](./mainnet/vaETH.md)
+- [vaWBTC](./mainnet/vaWBTC.md)
+- [vaUSDC](./mainnet/vaUSDC.md)
 
-## Orbit Pools
-- [vaALUSD](./vaALUSD.md)
-- [vaDPI](./vaDPI.md)
-- [vaFEI](./vaFEI.md)
-- [vaFRAX](./vaFRAX.md)
+### Earn Pools
+- [veETH-DAI](./mainnet/veETH-DAI.md)
+- [veDAI-ETH](./mainnet/veDAI-ETH.md)
+- [veWBTC-DAI](./mainnet/veWBTC-DAI.md)
+- [veDAI-WBTC](./mainnet/veDAI-WBTC.md)
+- [veDAI-DPI](./mainnet/veDAI-DPI.md)
+- [veDAI-VSP](./mainnet/veDAI-VSP.md)
+
+### Orbit Pools
+- [vaALUSD](./mainnet/vaALUSD.md)
+- [vaDPI](./mainnet/vaDPI.md)
+- [vaFEI](./mainnet/vaFEI.md)
+- [vaFRAX](./mainnet/vaFRAX.md)
+
+## Polygon
+
+### Aggressive Pools
+- [vDAI](./polygon/vDAI.md)
+- [vMATIC](./polygon/vMATIC.md)
+- [vUSDC](./polygon/vUSDC.md)
+- [vUSDT](./polygon/vUSDT.md)
+- [vWBTC](./polygon/vWBTC.md)
+- [vWETH](./polygon/vWETH.md)
+
+## Earn Pool
+- [veDAI-WETH](./polygon/veDAI-WETH.md)
+- [veDAI-WBTC](./polygon/veDAI-WBTC.md)
