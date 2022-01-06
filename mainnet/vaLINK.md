@@ -1,6 +1,6 @@
 # vaLINK pool
 |Strategy | Weight |
 |-------: | --------|
-|Maker | 45%    |
-|Compound Leverage | 50%     |
+|Maker | 0%    |
+|Compound Leverage | 90%     |
 |Pool buffer | 5%     |
