@@ -2,5 +2,5 @@
 |Strategy | Weight |
 |-------: | --------|
 |Maker | 0%    |
-|Compound Leverage | 90%     |
+|Compound Leverage | 95%     |
 |Pool buffer | 5%     |
