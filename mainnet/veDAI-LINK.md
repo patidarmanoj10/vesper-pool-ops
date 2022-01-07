@@ -1,5 +1,5 @@
 # veDAI-LINK pool
 |Strategy | Weight |
 |-------: | --------|
-|Vesper-DAI-LINK | 0%      |
-|Pool buffer | 100%     |
+|Vesper-DAI-LINK | 95%      |
+|Pool buffer | 5%     |
