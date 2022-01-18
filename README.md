@@ -31,6 +31,7 @@ Submit pull-requests for Vesper pool operations.
 - [veDAI-VSP](./mainnet/veDAI-VSP.md)
 - [veDAI-LINK](./mainnet/veDAI-LINK.md)
 - [veLINK-DAI](./mainnet/veLINK-DAI.md)
+- [veDAI-SHIB](./mainnet/veDAI-SHIB.md)
 
 ### Orbit Pools
 - [vaALUSD](./mainnet/vaALUSD.md)
