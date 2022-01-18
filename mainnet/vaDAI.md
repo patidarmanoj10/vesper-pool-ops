@@ -9,4 +9,4 @@
 |Rari fuse pool#8 | 0%     |
 |Rari fuse pool#18 | 30%     |
 |Rari fuse pool#23 | 12.86%     |
-|Pool buffer | 3%     |
+|Pool buffer | 4.14%     |
