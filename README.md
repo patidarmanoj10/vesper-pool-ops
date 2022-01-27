@@ -53,3 +53,12 @@ Submit pull-requests for Vesper pool operations.
 ### Earn Pool
 - [veDAI-WETH](./polygon/veDAI-WETH.md)
 - [veDAI-WBTC](./polygon/veDAI-WBTC.md)
+
+## Avalanche
+
+### Aggressive Pools
+- [vaDAI](./avalanche/vaDAI.md)
+- [vaWETH](./avalanche/vaWETH.md)
+- [vaWBTC]()
+- [vaAVAX]()
+- [vaUSDC]()
