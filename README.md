@@ -60,5 +60,5 @@ Submit pull-requests for Vesper pool operations.
 - [vaDAI](./avalanche/vaDAI.md)
 - [vaWETH](./avalanche/vaWETH.md)
 - [vaWBTC]()
-- [vaAVAX]()
+- [vaAVAX](./avalanche/vaAVAX.md)
 - [vaUSDC]()
