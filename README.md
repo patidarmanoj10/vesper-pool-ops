@@ -21,6 +21,7 @@ Submit pull-requests for Vesper pool operations.
 - [vaWBTC](./mainnet/vaWBTC.md)
 - [vaUSDC](./mainnet/vaUSDC.md)
 - [vaLINK](./mainnet/vaLINK.md)
+- [vaMUSD](./mainnet/vaMUSD.md)
 
 ### Earn Pools
 - [veETH-DAI](./mainnet/veETH-DAI.md)
