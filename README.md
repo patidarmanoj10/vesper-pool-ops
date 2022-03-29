@@ -40,6 +40,7 @@ Submit pull-requests for Vesper pool operations.
 - [vaDPI](./mainnet/vaDPI.md)
 - [vaFEI](./mainnet/vaFEI.md)
 - [vaFRAX](./mainnet/vaFRAX.md)
+- [vaAPE](./mainnet/vaAPE.md)
 
 ## Polygon
 
