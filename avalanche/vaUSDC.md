@@ -4,4 +4,5 @@
 |Aave | 0%     |
 |TraderJoe | 97% |
 |Benqi | 0 |
-|Pool buffer | 3%     |
+|TraderJoeCompoundLeverage | 1% |
+|Pool buffer | 2%     |
